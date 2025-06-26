@@ -1,2 +1,2 @@
-runtime\python.exe infer-web.py --pycmd runtime\python.exe --port 7897
+.conda\python.exe infer-web.py --pycmd .conda\python.exe --nocheck --port 7897
 pause
